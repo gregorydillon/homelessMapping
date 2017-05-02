@@ -1,0 +1,7 @@
+var dataUrl = "https://data.sfgov.org/resource/vw6y-z8j6.json?$where=opened > '" + oneWeekAgoISO + "'&$order=opened DESC&$limit=5000";
+var dataUrl = "https://data.sfgov.org/resource/vw6y-z8j6.json?$where=opened > '" + oneWeekAgoISO + "'&$order=opened DESC&$limit=5000";
+
+
+var dataUrl = "https://data.sfgov.org/resource/vw6y-z8j6.json?$where=opened > '" + oneWeekAgoISO + "'&$order=opened DESC&$limit=5000";
+
+var dataUrl = "https://data.sfgov.org/resource/rs7u-hch9.json?$where=requested_datetime > '" + oneWeekAgoISO + "'&$order=requested_datetime DESC&$limit=5000";
